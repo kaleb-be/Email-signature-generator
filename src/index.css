@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #f2f2f2 !important;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +11,32 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.Ohmswich-blue {
+  color: #00FFFF;
+}
+
+.Ohmswich-purple {
+  color: #800080
+}
+
+.Ohmswich-blue-bg {
+  background-color: #00FFFF
+}
+
+.Ohmswich-purple-bg {
+  background-color: #800080
+}
+
+.Ohmswich-light-blue-bg {
+  background-color: #00ffff44
+}
+
+.Ohmswich-light-purple-bg {
+  background-color: #80008044
+}
+
+.Ohmswich-logo-text {
+  font-size: 2em;
+  font-weight: bold;
 }
